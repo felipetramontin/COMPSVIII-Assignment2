@@ -27,3 +27,5 @@ The environment configuration sets up the GitHub Pages deployment environment. I
 ## f. What would happen if you pushed code to a different branch (not main)?
 - The workflow **would not run** because it is configured to trigger only on pushes or pull requests to the main branch.  
 - No deployment, HTML validation, or link checks would occur on other branches.
+
+*small edit :)*
